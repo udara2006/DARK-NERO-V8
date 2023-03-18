@@ -18,7 +18,47 @@ global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
+global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ
+
+╠බොට් 𝗔𝗖𝗧𝗜𝗩𝗘 ද..කියලා බැලිමට ╠[𝐀𝐋𝐈𝐕𝐄] ලෙස පල කරන්න.
+
+╠(24×7) පැය විසිහතර තුළම ╠ක්‍රියාකරයි✅
+
+╠බොට් වැඩද කියලා බලන්න .𝗔𝗟𝗜𝗩𝗘 ╠ලෙස මැසේජ් එකක් දමන්න✅
+
+╠බොට්ගෙ 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧 එක ╠ගන්න .𝗠𝗘𝗡𝗨 හෝ .𝗣𝗔𝗡𝗘𝗟ලෙස ╠මැසේජ් එකක් දමන්න✅
+
+╠𝗦𝗢𝗡𝗚, 𝗩𝗜𝗗𝗘𝗢, 𝗔𝗣𝗣𝗦, 𝗠𝗘𝗗𝗜𝗔𝗙𝗜𝗟𝗘, ╠𝗦𝗧𝗜𝗖𝗞𝗘𝗥, 𝗬𝗧 𝗩𝗜𝗗𝗘𝗢, 𝗜𝗠𝗔𝗚𝗘 වැනි දෑ ╠ඩව්න්ලෝඩ් කර ගැනීමට සහ තවත් ╠විශේෂ වැඩ කරගත හැක
+
+╠𝐍𝐎❗𝐒𝐏𝐀𝐌 ╣
+
+╠𝐍𝐎❗𝐑𝐄𝐏𝐎𝐑𝐓 ╣
+
+╠𝐍𝐎❗𝐑𝐄𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏╣
+
+╠𝐍𝐎❗𝐒𝐄𝐗 ╣
+
+🧩ＭＹ ＮＡＭＥ࿐
+
+ 𝙳𝙰𝚁𝙺 🅳𝙴𝚅𝙸𝙻 𝚆𝙿 𝙱𝙾𝚃 ࿐
+
+🧩 ＯＷＮＥＲ࿐
+
+ [ᴿᴵʸᴬᴸ 𝙺𝙸𝙽𝙶 🅳𝙰𝚁𝙺 𝙳𝙴𝚅𝙸𝙻 ]
+
+🧩 ＣＯＮＴＡＣＴ ＭＥ ࿐
+
+ https://wa.me/+94768462285
+
+🧩 ＲＵＮ ＴＩＭＥ ࿐
+
+  24×7 H 
+
+🧩WHATSAPP GROUP LINK ࿐
+
+ https://chat.whatsapp.com/C9XFdf2DA9N3U3wbSjCcnj
+
+🙌  𝚃𝙷𝙰𝙽𝙺 𝙵𝙾𝚁 𝚈𝙾𝚄 !!! 🙌'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
 global.owner = ['0768462285'] //ur owner number
 global.ownername = "[ᴿᴵʸᴬᴸ 𝙺𝙸𝙽𝙶 🅳𝙰𝚁𝙺 𝙳𝙴𝚅𝙸𝙻 ]" //ur owner name
